@@ -1,7 +1,9 @@
 import java.util.Arrays;
 
-//Find the average of array elements
+
 public class ArrayProblems {
+
+    //Find the average of array elements
     public static double findAverage(int[] arr){
         int sum = 0;
         for (int i : arr){
@@ -11,6 +13,7 @@ public class ArrayProblems {
         return (double) sum / size;
     }
 
+    //Multiply each element of array with 10
     public static void multiply(int[] arr) {
         for (int i=0; i<arr.length;i++){
             arr[i] *= 10;

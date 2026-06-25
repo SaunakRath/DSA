@@ -1,3 +1,5 @@
+//shift elements of array by 1
+
 public class shiftOne {
     static void shiftByOne(int[] arr){
         //step1:last value ko store karo temp me

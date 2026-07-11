@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/SaunakRath/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SaunakRath/DSA/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/SaunakRath/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SaunakRath/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SaunakRath/DSA/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SaunakRath/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SaunakRath/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

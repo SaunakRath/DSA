@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SaunakRath/DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/SaunakRath/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/SaunakRath/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaunakRath/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SaunakRath/DSA/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/SaunakRath/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/SaunakRath/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SaunakRath/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

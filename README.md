@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaunakRath/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SaunakRath/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaunakRath/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SaunakRath/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaunakRath/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaunakRath/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SaunakRath/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaunakRath/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaunakRath/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaunakRath/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SaunakRath/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SaunakRath/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/SaunakRath/DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/SaunakRath/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaunakRath/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SaunakRath/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SaunakRath/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaunakRath/DSA/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaunakRath/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SaunakRath/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SaunakRath/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SaunakRath/DSA/tree/master/0125-valid-palindrome) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SaunakRath/DSA/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaunakRath/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

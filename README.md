@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SaunakRath/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/SaunakRath/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaunakRath/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/SaunakRath/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/SaunakRath/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/SaunakRath/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaunakRath/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SaunakRath/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SaunakRath/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SaunakRath/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SaunakRath/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SaunakRath/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
